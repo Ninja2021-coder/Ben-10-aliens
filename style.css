@@ -1,0 +1,79 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#pg{
+    width: 100%;
+    height: 800px;
+    background-color: cadetblue;
+}
+#fourarm{
+    height: 100px;
+    width: 100px;
+}
+
+#Ben-Ten{
+    height: 500px;
+    width: 500px
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: #a336cf;
+    font-size: 20px;
+    font-weight: bold;
+}
+#heat{
+    height: 100px;
+    width: 100px;
+}
+#up{
+    height: 100px;
+    width: 100px;
+}
+#myCarousel{
+    background-color:beige;
+}
+#speed{
+    height: 100px;
+    width: 100px;
+}
+#gga{
+    height: 300px;
+    width: 700px;
+}
+#flow{
+    height: 100px;
+    width: 100px;
+}
+#cb{
+    height: 100px;
+    width: 100px;
+    border-color: aqua;
+}
+#gm{
+    height: 100px;
+    width: 100px;
+}
+#stinky{
+    height: 100px;
+    width: 100px;
+}
+#vine{
+    height: 100px;
+    width: 100px;      
+}
+#dia{
+    height: 100px;
+    width: 100px;
+}
